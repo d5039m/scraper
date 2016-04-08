@@ -1,0 +1,21 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "scrapes list of arrow episodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Salt",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "jade": "^1.11.0",
+    "nodemon": "^1.9.1",
+    "promise": "^7.1.1",
+    "pug": "^2.0.0-alpha3",
+    "request": "^2.70.0",
+    "require": "^2.4.20",
+    "source-map": "^0.5.3"
+  }
+}
