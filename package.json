@@ -9,6 +9,7 @@
   "author": "Matthew Salt",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.0.0-rc.3",
     "cheerio": "^0.20.0",
     "jade": "^1.11.0",
     "nodemon": "^1.9.1",
